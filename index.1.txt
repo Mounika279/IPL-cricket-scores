@@ -1,0 +1,64 @@
+<html>
+   
+    <marquee><b>CONGRATULATIONS CSK-2023</b></marquee>
+    <body>
+        
+        <center><table border="5" cellpadding="5" cellspacing="5">
+            
+            <h1>IPL 2023</h1>
+
+            <h4>Team Lists</h4>
+            <img src="./img1.jpg"height="100" width="100"> <img src="./img2.jpg" height="100" width="100">
+            <img src="./img3.jpg" height="100" width="100"><img src="./img4.jpg" height="100" width="100">
+            <img src="./img5.jpg" height="100"  width="100">
+
+            <tr>
+                <th>Year</th>
+                <th>Team</th>
+                 <th>scores</th>
+                 <th>wickets</th>
+                 
+            </tr>
+            <tr>
+                <td rowspan="2">2023</td>
+                <td>CSK</td>
+                <td>178</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td>GT</td>
+                <td>182</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td rowspan="2">2022</td>
+                <td>RCB</td>
+                <td>158</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>RR</td>
+                <td>161</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td rowspan="2">2021</td>
+                <td>CSK</td>
+                <td>192</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>KKR</td>
+                <td>165</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td colspan="4"> chennai super kings winners-2023</td>
+            </tr>
+        </table>
+    </center>
+    <img src="./ipl.jpg" height="300" width="250">
+    
+    <marquee direction="right"><b>Bonagiri mounika-10k coders</b></marquee>
+    </body>
+</html>
